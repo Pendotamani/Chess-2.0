@@ -3,8 +3,7 @@
   "version": "1.0.0",
   "description": "Interactive Chess Game with AI and 2-Player modes",
   "scripts": {
-    "start": "serve -s .",
-    "build": "echo 'No build step required for static site'"
+    "start": "serve -s ."
   },
   "keywords": ["chess", "game", "minimax", "html5", "tailwind"],
   "author": "",
